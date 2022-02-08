@@ -1,4 +1,4 @@
-## 💳 DEMON LORD V1 (DEMO VERSION) 💳
+## 💳 DEMON LORD V1.5 (NEW UPDATE) 💳
 
 
 
@@ -16,7 +16,7 @@ After Download :
 
  - First:
    
-       1- Open DemonV1.exe
+       1- Open DemonV1.5.exe
        
  - Next :
        
@@ -26,9 +26,12 @@ After Download :
 
        3- Put Your Choice & Enjoy :) 
        
-               
- - ScreenShot
- <img src="https://image.prntscr.com/image/I68r0Ee8Qjy5AB0WpAj-Yg.jpg" >
+ - Notice :
+ 
+       3- Back To Main Menu (CTRL+C)
+       
+ - ScreenShot :
+ <img src="https://image.prntscr.com/image/9P1UWGgNTu-bKETph_HT3g.png" >
 
 ## Contact :
 
@@ -38,6 +41,6 @@ facebook : https://www.facebook.com/rimurx
 
 ## VirusTotal <img src="https://www.virustotal.com/gui/images/omnibar/vt_logo.svg" width="28px"> :
 
-https://www.virustotal.com/gui/file/73f229f1f7f8334f0d445e866b65ddbf51dacd47f12524b9ba24ac59aa35644c
+https://www.virustotal.com/gui/file/aec26eac7c621783ca75a1e0eacb2f391674335ff61944df1b988ed4e4614631
 
-## Pls Don't Forgot Follow :)
+## Pls Don't Forgot Follow & Star :)
