@@ -28,7 +28,7 @@ After Download :
        
  - Notice :
  
-       3- Back To Main Menu (CTRL+C)
+       4- Back To Main Menu (CTRL+C)
        
  - ScreenShot :
  <img src="https://image.prntscr.com/image/9P1UWGgNTu-bKETph_HT3g.png" >
