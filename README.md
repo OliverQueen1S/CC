@@ -31,7 +31,7 @@ After Download :
        4- Back To Main Menu (CTRL+C)
        
  - ScreenShot :
- <img src="https://image.prntscr.com/image/9P1UWGgNTu-bKETph_HT3g.png" >
+ <img src="https://image.prntscr.com/image/0UOHKPPvRqK517Kc9Eu24A.png" >
 
 ## Contact :
 
