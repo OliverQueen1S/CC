@@ -30,7 +30,7 @@ After Download :
  
        4- Back To Main Menu (CTRL+C)
        
- - Whats New ?
+ - What's New ?
  
        CC CHECKER NON SK NEED
        
