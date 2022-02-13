@@ -1,4 +1,4 @@
-## 💳 DEMON LORD V1.5 (NEW UPDATE) 💳
+## 💳 DEMON LORD V2 (NEW UPDATE) 💳
 
 
 
@@ -16,7 +16,7 @@ After Download :
 
  - First:
    
-       1- Open DemonV1.5.exe
+       1- Open DemonV2.exe
        
  - Next :
        
@@ -30,8 +30,12 @@ After Download :
  
        4- Back To Main Menu (CTRL+C)
        
+ - Whats New ? :
+ 
+       CC CHECKER NON SK NEED
+       
  - ScreenShot :
- <img src="https://image.prntscr.com/image/0UOHKPPvRqK517Kc9Eu24A.png" >
+ <img src="https://image.prntscr.com/image/u186lq8sSDSeNjrsK5EmSw.png" >
 
 ## Contact :
 
