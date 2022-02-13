@@ -45,6 +45,6 @@ facebook : https://www.facebook.com/rimurx
 
 ## VirusTotal <img src="https://www.virustotal.com/gui/images/omnibar/vt_logo.svg" width="28px"> :
 
-https://www.virustotal.com/gui/file/aec26eac7c621783ca75a1e0eacb2f391674335ff61944df1b988ed4e4614631
+https://www.virustotal.com/gui/file/525f7f01f3aba323c2c33e017319288f19e1d4d5b07b6f8c4029a2e3f2535131
 
 ## Pls Don't Forgot Follow & Star :)
